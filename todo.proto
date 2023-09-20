@@ -3,7 +3,6 @@ syntax="proto3";
 //Your api contract style will be defined here only
 // If you want to define set of api's
 
-package todo;
 
 
 service TodoService{
